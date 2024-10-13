@@ -6,7 +6,7 @@ This project implements three algorithms (Brute Force, Apriori, and FP-Growth) t
 
 ## How to Run the Code
 1. Clone this repository:
-git clone link-
+git clone link- https://github.com/HemThumar/DM_midtermproj.git
 
 2. Install the necessary Python libraries:
 
