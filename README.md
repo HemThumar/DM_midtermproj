@@ -10,9 +10,9 @@ git clone link- https://github.com/HemThumar/DM_midtermproj.git
 
 2. Install the necessary Python libraries:
 
-3. Run the Jupyter notebook:
+3. Run the Jupyter notebook: Launch Jupyter notebook as the same file location as the CSV data files i.e run the notebook within the clone repository.
 
-4. Open the midterm_project.ipynb notebook and follow the prompts.
+4. Open the thumar_hem_midtermproj.ipynb notebook and follow the prompts.
 
 ## Project Structure
 - thumar_hem_midtermproj.ipynb: Jupyter notebook with the code implementation.
